@@ -1,0 +1,45 @@
+.container
+{
+	text-align: center;
+	margin: auto;
+	width: 70%;
+}
+
+.dice
+{
+	text-align: center;
+	display: inline-block;
+}
+
+body
+{
+	background-color: grey;
+}
+
+h1
+{
+	font-size: 4rem;
+	font-family: 'cambria';
+	color: white;
+}
+
+p 
+{
+	font-size: 2rem;
+	font-family: 'cambria';
+	color: white;
+}
+
+img
+{
+	width: 50%;
+}
+
+footer
+{
+	color: whitesmoke;
+	text-align: center;
+	font-family: 'cambria';
+	margin-top: auto;
+}
+
